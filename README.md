@@ -1,9 +1,9 @@
 ### Hi there, I'm Aniello - aka [Nek97][website] 👋
 
 ## I'm a FullStack-Developer!
-- 🔭 I’m currently working in Vita
+- 🔭 I’m currently looking for a job!
 - 👯 I’m looking to create web application
-- 🥅 2024 Goals: test hard as possible AI
+- 🥅 2026 Goals: test hard as possible AI
 - ⚡ Fun fact: I love to draw and play guitar / drums, but i'm good only at programming
 
 ## Co-creator
