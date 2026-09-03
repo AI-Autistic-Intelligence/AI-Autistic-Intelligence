@@ -1,4 +1,4 @@
-### Hi there, I'm Aniello - aka [Nek97][website] 👋
+### Hi there, I'm Aniello - aka [Nek97][website] or @ai_autistic_intelligence👋
 
 ## I'm a FullStack-Developer!
 - 🔭 I’m currently looking for a job!
