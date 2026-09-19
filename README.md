@@ -6,6 +6,8 @@
 
 ### Hi there, I'm Aniello - aka [AI-Autistic-Intelligence][website] 👋
 
+<img align="right" src="tesseract.svg" width="250" alt="Rotating Tesseract" />
+
 ## I'm a Lead Software Architect & Open Source Contributor
 
 I love building blazing-fast, enterprise-grade backends and exploring the boundaries of High-Frequency Trading (HFT), Artificial Intelligence, and zero-downtime distributed systems.
