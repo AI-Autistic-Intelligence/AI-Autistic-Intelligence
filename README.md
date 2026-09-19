@@ -53,15 +53,7 @@ I spend my time engineering frameworks and tools that make developers' lives eas
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AI-Autistic-Intelligence&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aniello's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Autistic-Intelligence&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br />
 
 ### Connect with me:
 
