@@ -1,42 +1,79 @@
-### Hi there, I'm Aniello - aka [AI_Autistic_Intelligence][website] 👋
+<div align="center">
+  <a href="https://ferrox-rust.dev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=250&section=header&text=Aniello%20Tortora&fontSize=80&fontAlignY=35&desc=Lead%20Software%20Architect%20%7C%20Creator%20of%20Ferrox&descAlignY=55&descAlign=62&fontColor=ffffff" />
+  </a>
+</div>
 
-## I'm a FullStack Developer & Software Architect!
-I love building solid, enterprise-grade backends and exploring the boundaries of Artificial Intelligence, MLOps, and quantitative trading algorithms.
+### Hi there, I'm Aniello - aka [AI-Autistic-Intelligence][website] 👋
+
+## I'm a Lead Software Architect & Open Source Contributor
+
+I love building blazing-fast, enterprise-grade backends and exploring the boundaries of High-Frequency Trading (HFT), Artificial Intelligence, and zero-downtime distributed systems.
 
 - 🔭 I’m currently looking for a job!
 - 👯 I’m looking to create web applications and scalable microservices.
-- 🥅 2026 Goals: test as hard as possible AI models and build high-performance distributed systems.
-- ⚡ Fun fact: I love to draw and play guitar / drums, but I'm good only at programming!
+- 🥅 **2026 Goals:** Push the Ferrox ecosystem to the bleeding edge of Java 21 / Rust performance and architect zero-trust data platforms.
+- ⚡ **Fun fact:** I love to draw and play guitar / drums, but I'm only good at programming!
+
+---
 
 ### 💻 What I've Built (My Projects)
 
 I spend my time engineering frameworks and tools that make developers' lives easier, as well as researching AI and financial markets:
 
-*   **[Ferrox](https://github.com/AI-Autistic-Intelligence/Ferrox) (Creator):** An enterprise-grade, blazing-fast Cloud-Native Rust framework. It brings the developer ergonomics of NestJS into the Rust ecosystem (Axum, Tokio, SeaORM) to generate production-ready boilerplates and microservices.
-*   **[Nestjs-yalc](https://github.com/Drassil/nestjs-yalc) (Co-creator):** A powerful, opinionated toolkit for NestJS. It provides automated CRUD generation, GraphQL integration, and advanced monorepo management for scalable Node.js/TypeScript backends.
-*   **AI, MLOps & Quant Trading:** I actively develop advanced market simulation engines, macroeconomic regime analyzers, and MLOps ingestion pipelines using Python, integrating them with tools like MetaTrader 5 (via ZeroMQ).
+*   **[The Ferrox Ecosystem](https://ferrox-rust.dev) (Creator):** An enterprise-grade, blazing-fast Cloud-Native framework suite. 
+    *   **ferrox (Rust):** Brings NestJS ergonomics into Rust (Axum, Tokio, SeaORM).
+    *   **ferrox-java:** Next-gen Java 21 module utilizing **Project Panama** (Zero-GC Off-Heap caching), **Virtual Threads (Loom)**, and **PASETO Zero-Trust** security.
+*   **Game Dev & MMO Emulation:** Core contributor to **[azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)** (C++ MMO emulator framework).
+*   **Algorithmic Trading & HFT Engines:** Developed **ferrox-bid** (microsecond-latency HFT engine in Java 21) alongside **MT5-ZeroMQ** market data streaming bridges and MLOps ingestion pipelines.
+*   **Microservices Automation:** Co-created **[nestjs-yalc](https://github.com/Drassil/nestjs-yalc)** & **node-yalc**, powerful opinionated toolkits standardizing RBAC, logging, and CRUD generation for scalable Node.js/TypeScript backends.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AI-Autistic-Intelligence&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aniello's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AI-Autistic-Intelligence&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br />
 
 ### Connect with me:
 
-[<img align="left" alt="https://nek97.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="devnek97 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ferrox Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
-
-### Languages and Tools:
-<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-### Frameworks & Ecosystems:
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/><img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-
-### Version Control & DevOps:
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <br />
 
 ## Thank You, here's a little joke for you :D
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <br />
 
-[website]: https://ai-autistic-intelligence.github.io/resume-code/
+[website]: https://ferrox-rust.dev
 [linkedin]: https://www.linkedin.com/in/devnek97/
