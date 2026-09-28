@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ferrox-rust.dev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=250&section=header&text=Aniello%20Tortora&fontSize=80&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Data%20Platform%20%26%20AWS%20%7C%20Creator%20of%20Ferrox&descAlignY=55&descAlign=62&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=250&section=header&text=Aniello%20Tortora&fontSize=80&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Data%20Platform%20and%20AWS%20%7C%20Creator%20of%20Ferrox&descAlignY=55&descAlign=62&fontColor=ffffff" />
   </a>
 </div>
 
