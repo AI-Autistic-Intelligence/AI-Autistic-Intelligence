@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://ferrox-rust.dev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=250&section=header&text=Aniello%20Tortora&fontSize=80&fontAlignY=35&desc=Lead%20Software%20Architect%20%7C%20Creator%20of%20Ferrox&descAlignY=55&descAlign=62&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=250&section=header&text=Aniello%20Tortora&fontSize=80&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Data%20Platform%20%26%20AWS%20%7C%20Creator%20of%20Ferrox&descAlignY=55&descAlign=62&fontColor=ffffff" />
   </a>
 </div>
 
@@ -8,27 +8,27 @@
 
 <img align="right" src="tesseract.svg" width="250" alt="Rotating Tesseract" />
 
-## I'm a Lead Software Architect & Open Source Contributor
+## I'm a Senior Software Engineer | Data Platform, AWS & AI Infrastructure
 
-I love building blazing-fast, enterprise-grade backends and exploring the boundaries of High-Frequency Trading (HFT), Artificial Intelligence, and zero-downtime distributed systems.
+I am an engineer with 8+ years of experience architecting cloud-native data platforms, real-time ingestion pipelines, AWS serverless workflows, and zero-downtime microservices.
 
 - 🔭 I’m currently looking for a job!
-- 👯 I’m looking to create web applications and scalable microservices.
-- 🥅 **2026 Goals:** Push the Ferrox ecosystem to the bleeding edge of Java 21 / Rust performance and architect zero-trust data platforms.
+- 👯 I’m looking to architect resilient cloud infrastructure, automated CI/CD workflows, and scalable microservices.
+- 🥅 **2026 Goals:** Leverage AI-assisted engineering tools (Multi-Agent Workflows, Copilot, Claude Code) to accelerate paved-path delivery, while pushing the Ferrox ecosystem to the bleeding edge.
 - ⚡ **Fun fact:** I love to draw and play guitar / drums, but I'm only good at programming!
 
 ---
 
 ### 💻 What I've Built (My Projects)
 
-I spend my time engineering frameworks and tools that make developers' lives easier, as well as researching AI and financial markets:
+I spend my time engineering frameworks and tools that make developers' lives easier, as well as researching AI and algorithmic platforms:
 
-*   **[The Ferrox Ecosystem](https://ferrox-rust.dev) (Creator):** An enterprise-grade, blazing-fast Cloud-Native framework suite. 
+*   **[The Ferrox Ecosystem](https://ferrox-rust.dev) (Lead Architect):** An enterprise-grade, blazing-fast Cloud-Native framework suite. 
     *   **ferrox (Rust):** Brings NestJS ergonomics into Rust (Axum, Tokio, SeaORM).
     *   **ferrox-java:** Next-gen Java 21 module utilizing **Project Panama** (Zero-GC Off-Heap caching), **Virtual Threads (Loom)**, and **PASETO Zero-Trust** security.
-*   **Game Dev & MMO Emulation:** Core contributor to **[azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)** (C++ MMO emulator framework).
-*   **Algorithmic Trading & HFT Engines:** Developed **ferrox-bid** (microsecond-latency HFT engine in Java 21) alongside **MT5-ZeroMQ** market data streaming bridges and MLOps ingestion pipelines.
-*   **Microservices Automation:** Co-created **[nestjs-yalc](https://github.com/Drassil/nestjs-yalc)** & **node-yalc**, powerful opinionated toolkits standardizing RBAC, logging, and CRUD generation for scalable Node.js/TypeScript backends.
+*   **Microservices Standardization:** Co-authored **[nestjs-yalc](https://github.com/Drassil/nestjs-yalc)** & **node-yalc**, enterprise toolkits enabling automated logging and unified API response schemas across multi-project backend suites.
+*   **AI Infrastructure & Algorithmic Trading:** Authored open-source MLOps and AI projects (`AI_SurviveStrategy`, `Advanced_Market_Forecaster`) and **ferrox-bid** (microsecond-latency HFT engine in Java 21).
+*   **Low-Latency Bridges & Launchers:** Engineered market data streaming bridges (Java/Spring Boot, MQL5/ZeroMQ, Python) and desktop platform launchers integrating C++, Electron, and React.
 
 ---
 
