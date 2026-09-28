@@ -6,11 +6,11 @@
 
 ### Hi there, I'm Aniello - aka [AI-Autistic-Intelligence][website] 👋
 
-<img align="right" src="tesseract.svg" width="250" alt="Rotating Tesseract" />
-
 ## I'm a Senior Software Engineer | Data Platform, AWS & AI Infrastructure
 
 I am an engineer with 8+ years of experience architecting cloud-native data platforms, real-time ingestion pipelines, AWS serverless workflows, and zero-downtime microservices.
+
+<img align="right" src="tesseract.svg" width="250" alt="Rotating Tesseract" />
 
 - 🔭 I’m currently looking for a job!
 - 👯 I’m looking to architect resilient cloud infrastructure, automated CI/CD workflows, and scalable microservices.
