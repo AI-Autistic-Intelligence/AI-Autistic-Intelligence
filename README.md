@@ -36,14 +36,6 @@ I spend my time engineering frameworks and tools that make developers' lives eas
 
 ### 📦 Open Source Packages & Contributions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Packages-131-0F766E?style=for-the-badge" alt="Total Packages" />
-  <img src="https://img.shields.io/badge/NPM-65-cb3837?style=for-the-badge&logo=npm" alt="Total NPM Packages" />
-  <img src="https://img.shields.io/badge/Crates.io-61-fc8d62?style=for-the-badge&logo=rust" alt="Total Rust Packages" />
-  <img src="https://img.shields.io/badge/PyPI-4-3776ab?style=for-the-badge&logo=python" alt="Total PyPI Packages" />
-  <img src="https://img.shields.io/badge/Packagist-1-8892BF?style=for-the-badge&logo=php" alt="Total PHP Packages" />
-</p>
-
 I actively publish libraries and tools across multiple package registries. Here is a selection of my most popular packages and their community download stats (visit the registry links to see the full list of published packages):
 
 <p align="left">
@@ -71,6 +63,15 @@ I actively publish libraries and tools across multiple package registries. Here 
 <p align="left">
   <strong>PHP (Packagist) - <a href="https://packagist.org/packages/ferrox/ferrox-php">ferrox/ferrox-php</a>:</strong><br/>
   <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php" alt="ferrox-php downloads" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Packages-131-0F766E?style=for-the-badge" alt="Total Packages" />
+  <img src="https://img.shields.io/badge/NPM-65-cb3837?style=for-the-badge&logo=npm" alt="Total NPM Packages" />
+  <img src="https://img.shields.io/badge/Crates.io-61-fc8d62?style=for-the-badge&logo=rust" alt="Total Rust Packages" />
+  <img src="https://img.shields.io/badge/PyPI-4-3776ab?style=for-the-badge&logo=python" alt="Total PyPI Packages" />
+  <img src="https://img.shields.io/badge/Packagist-1-8892BF?style=for-the-badge&logo=php" alt="Total PHP Packages" />
 </p>
 <details>
 <summary><b>Click to expand the full list of my published packages!</b></summary>
