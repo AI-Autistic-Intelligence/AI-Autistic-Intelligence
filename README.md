@@ -63,15 +63,17 @@ I actively publish libraries and tools across multiple package registries. Here 
 <p align="left">
   <strong>PHP (Packagist) - <a href="https://packagist.org/packages/ferrox/ferrox-php">ferrox/ferrox-php</a>:</strong><br/>
   <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php" alt="ferrox-php downloads" />
+  <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-core?label=ferrox-php-core&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-core downloads" />
+  <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-security?label=ferrox-php-security&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-security downloads" />
 </p>
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Packages-131-0F766E?style=for-the-badge" alt="Total Packages" />
+  <img src="https://img.shields.io/badge/Total_Packages-152-0F766E?style=for-the-badge" alt="Total Packages" />
   <img src="https://img.shields.io/badge/NPM-65-cb3837?style=for-the-badge&logo=npm" alt="Total NPM Packages" />
   <img src="https://img.shields.io/badge/Crates.io-61-fc8d62?style=for-the-badge&logo=rust" alt="Total Rust Packages" />
   <img src="https://img.shields.io/badge/PyPI-4-3776ab?style=for-the-badge&logo=python" alt="Total PyPI Packages" />
-  <img src="https://img.shields.io/badge/Packagist-1-8892BF?style=for-the-badge&logo=php" alt="Total PHP Packages" />
+  <img src="https://img.shields.io/badge/Packagist-22-8892BF?style=for-the-badge&logo=php" alt="Total PHP Packages" />
 </p>
 <details>
 <summary><b>Click to expand the full list of my published packages!</b></summary>
@@ -98,7 +100,7 @@ I actively publish libraries and tools across multiple package registries. Here 
 ### Packagist Packages
 
 <p align="center">
-<img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php" alt="ferrox/ferrox-php" />
+<img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php" alt="ferrox/ferrox-php" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-auth?label=ferrox-php-auth&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-auth" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-broadcasting?label=ferrox-php-broadcasting&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-broadcasting" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-cli?label=ferrox-php-cli&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-cli" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-config?label=ferrox-php-config&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-config" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-core?label=ferrox-php-core&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-core" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-cqrs?label=ferrox-php-cqrs&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-cqrs" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-crud-gen?label=ferrox-php-crud-gen&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-crud-gen" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-data?label=ferrox-php-data&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-data" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-database-core?label=ferrox-php-database-core&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-database-core" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-events?label=ferrox-php-events&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-events" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-gateway?label=ferrox-php-gateway&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-gateway" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-mailer?label=ferrox-php-mailer&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-mailer" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-observability?label=ferrox-php-observability&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-observability" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-queue?label=ferrox-php-queue&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-queue" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-rate-limiter?label=ferrox-php-rate-limiter&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-rate-limiter" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-rpc?label=ferrox-php-rpc&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-rpc" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-scheduler?label=ferrox-php-scheduler&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-scheduler" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-security?label=ferrox-php-security&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-security" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-storage?label=ferrox-php-storage&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-storage" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-utils?label=ferrox-php-utils&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-utils" /> <img src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-validation?label=ferrox-php-validation&style=flat-square&color=8892BF&logo=php" alt="ferrox-php-validation" />
 </p>
 
 </details>
