@@ -3,7 +3,7 @@ import math
 def generate_svg():
     width = 300
     height = 300
-    frames = 120
+    frames = 960
     
     # 16 vertices of a tesseract
     vertices = []
@@ -26,8 +26,8 @@ def generate_svg():
     vertex_frames = {i: [] for i in range(16)}
     
     for f in range(frames):
-        # Rotate in XW and YW planes
-        theta = (f / frames) * 2 * math.pi
+        # Rotate in XW and YW planes. We use 4*pi so that theta/2 completes a full 2*pi rotation.
+        theta = (f / frames) * 4 * math.pi
         
         for i, (x, y, z, w) in enumerate(vertices):
             # 4D Rotation (Double rotation)
@@ -102,10 +102,10 @@ def generate_svg():
         y2_vals += f";{vertex_frames[v2][0][1]:.2f}"
         
         line = f'<line stroke="#0F766E" stroke-width="2.5" filter="url(#glow)">'
-        line += f'<animate attributeName="x1" values="{x1_vals}" dur="8s" repeatCount="indefinite" />'
-        line += f'<animate attributeName="y1" values="{y1_vals}" dur="8s" repeatCount="indefinite" />'
-        line += f'<animate attributeName="x2" values="{x2_vals}" dur="8s" repeatCount="indefinite" />'
-        line += f'<animate attributeName="y2" values="{y2_vals}" dur="8s" repeatCount="indefinite" />'
+        line += f'<animate attributeName="x1" values="{x1_vals}" dur="16s" repeatCount="indefinite" />'
+        line += f'<animate attributeName="y1" values="{y1_vals}" dur="16s" repeatCount="indefinite" />'
+        line += f'<animate attributeName="x2" values="{x2_vals}" dur="16s" repeatCount="indefinite" />'
+        line += f'<animate attributeName="y2" values="{y2_vals}" dur="16s" repeatCount="indefinite" />'
         line += '</line>'
         svg.append(line)
         
