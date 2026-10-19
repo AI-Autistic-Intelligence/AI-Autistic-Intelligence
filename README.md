@@ -13,6 +13,7 @@ I am an engineer with 8+ years of experience architecting cloud-native data plat
 <img align="right" src="tesseract.svg" width="250" alt="Rotating Tesseract" />
 
 - 🔭 I’m currently looking for a job!
+- 🌐 Creator of **[The Ferrox Living Mesh](https://github.com/AI-Autistic-Intelligence/ferrox-infrastructure)** — ultra-resilient polyglot event mesh & orchestrator running 100% locally at $0.00 cloud cost.
 - 👯 I’m looking to architect resilient cloud infrastructure, automated CI/CD workflows, and scalable microservices.
 - 🥅 **2026 Goals:** Leverage AI-assisted engineering tools (Multi-Agent Workflows, Copilot, Claude Code) to accelerate paved-path delivery, while pushing the Ferrox ecosystem to the bleeding edge.
 - ⚡ **Fun fact:** I love to draw and play guitar / drums, but I'm only good at programming!
@@ -22,6 +23,14 @@ I am an engineer with 8+ years of experience architecting cloud-native data plat
 ### 💻 What I've Built (My Projects)
 
 I spend my time engineering frameworks and tools that make developers' lives easier, as well as researching AI and algorithmic platforms:
+*   **🌐 [The Ferrox Living Mesh](https://github.com/AI-Autistic-Intelligence/ferrox-infrastructure) (Distributed Polyglot Event Mesh & Orchestrator):** An ultra-resilient, event-driven polyglot service mesh connecting 7 distinct runtimes (Rust Core matching at 380ns, Java 21 Loom double-entry ledger, PHP FrankenPHP Saga coordinator with Redis Redlock, Node.js CQRS cryptographic audit logger, Python Polars analytics, and Rust Wasm Mission Control 3.0) via local Redpanda/Kafka event streaming at **$0.00 cloud cost**.
+    *   **Zero-Drift & Resilience Benchmark:** Validated with a local stress test of **10,000 concurrent transactions** at **64,585 TPS** with mathematically verified **$0.00 accounting drift** and zero mutex deadlocks.
+    *   **Interactive Mission Control 3.0 (Rust Wasm):** Live orderbook dispatcher, 60 FPS vector telemetry, and visual Saga rollback stepper with sub-millisecond timestamps at `http://localhost:4000`.
+    *   **🚀 Instant Zero-Cloning Quickstart (One-Liner):** Launch the complete 7-service ecosystem and streaming infrastructure locally with zero repository cloning and zero setup:
+        ```bash
+        curl -fsSL https://raw.githubusercontent.com/AI-Autistic-Intelligence/ferrox-infrastructure/master/docker-compose.standalone.yml | docker compose -f - up -d
+        ```
+    *   **Tooling & CLI:** Managed via `cargo ferrox mesh up|down|status|chaos|publish` ([Full Mesh CLI & Chaos Guide](https://ai-autistic-intelligence.github.io/ferrox-docs/docs/cli/cargo-ferrox-mesh) · [Standalone Docker Manifest](https://github.com/AI-Autistic-Intelligence/ferrox-infrastructure/blob/master/docker-compose.standalone.yml)).
 *   **[The Ferrox Ecosystem](https://ferrox-rust.dev) (Lead Architect & Creator):** An enterprise-grade, blazing-fast Cloud-Native framework suite available across multiple languages:
     *   **[ferrox (Rust)](https://github.com/AI-Autistic-Intelligence/cargo-ferrox):** Brings NestJS ergonomics into Rust (Axum, Tokio, SeaORM) for ultra-high performance microservices.
     *   **[ferrox-front (Rust / Wasm)](https://github.com/AI-Autistic-Intelligence/ferrox-front):** Reactive WebAssembly UI & charting engine with zero virtual DOM overhead, interactive component playbooks, and high-performance SVG vector rendering.
@@ -40,40 +49,7 @@ I spend my time engineering frameworks and tools that make developers' lives eas
 
 ### 📦 Open Source Packages & Contributions
 
-I actively publish libraries and tools across multiple package registries. Here is a selection of my most popular packages and their community download stats (visit the registry links to see the full list of published packages):
-
-<p align="left">
-  <strong>Rust (crates.io) - <a href="https://crates.io/users/AI-Autistic-Intelligence?sort=downloads">AI-Autistic-Intelligence</a>:</strong><br/>
-  <a href="https://crates.io/crates/cargo-ferrox"><img loading="lazy" src="https://img.shields.io/crates/d/cargo-ferrox?label=cargo-ferrox&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="cargo-ferrox downloads" /></a>
-  <a href="https://crates.io/crates/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-agent-toolkit downloads" /></a>
-  <a href="https://crates.io/crates/ferrox-errors"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-errors?label=ferrox-errors&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-errors downloads" /></a>
-  <a href="https://crates.io/crates/ferrox-security"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-security?label=ferrox-security&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-security downloads" /></a>
-</p>
-
-<p align="left">
-  <strong>Node.js (npm) - <a href="https://www.npmjs.com/org/node-yalc">@node-yalc</a>, <a href="https://www.npmjs.com/org/ferrox-node">@ferrox-node</a> & <a href="https://www.npmjs.com/~nek97">nek97</a>:</strong><br/>
-  <a href="https://www.npmjs.com/package/@nest-yalc-2/framework"><img loading="lazy" src="https://img.shields.io/npm/dt/@nest-yalc-2/framework?label=%40nest-yalc-2%2Fframework&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/framework downloads" /></a>
-  <a href="https://www.npmjs.com/package/@node-yalc/logger"><img loading="lazy" src="https://img.shields.io/npm/dt/@node-yalc/logger?label=%40node-yalc%2Flogger&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@node-yalc/logger downloads" /></a>
-  <a href="https://www.npmjs.com/package/@ferrox-node/core"><img loading="lazy" src="https://img.shields.io/npm/dt/@ferrox-node/core?label=%40ferrox-node%2Fcore&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@ferrox-node/core downloads" /></a>
-  <a href="https://www.npmjs.com/package/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/npm/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="ferrox-agent-toolkit downloads" /></a>
-</p>
-
-<p align="left">
-  <strong>Python (PyPI) - <a href="https://pypi.org/user/AutisticIntelligence/">AutisticIntelligence</a>:</strong><br/>
-  <a href="https://pypi.org/project/ferrox-agent-toolkit/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-agent-toolkit downloads" /></a>
-  <a href="https://pypi.org/project/ferrox-py/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py?label=ferrox-py&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py downloads" /></a>
-  <a href="https://pypi.org/project/ferrox-py-utils/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-utils?label=ferrox-py-utils&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-utils downloads" /></a>
-  <a href="https://pypi.org/project/ferrox-py-auth/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-auth?label=ferrox-py-auth&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-auth downloads" /></a>
-</p>
-
-<p align="left">
-  <strong>PHP (Packagist) - <a href="https://packagist.org/packages/ferrox/ferrox-php">ferrox/ferrox-php</a>:</strong><br/>
-  <a href="https://packagist.org/packages/ferrox/agent-toolkit"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/agent-toolkit?label=agent-toolkit&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="agent-toolkit downloads" /></a>
-  <a href="https://packagist.org/packages/ferrox/ferrox-php"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox-php downloads" /></a>
-  <a href="https://packagist.org/packages/ferrox/ferrox-php-core"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-core?label=ferrox-php-core&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox-php-core downloads" /></a>
-  <a href="https://packagist.org/packages/ferrox/ferrox-php-security"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-security?label=ferrox-php-security&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox-php-security downloads" /></a>
-</p>
-
+I actively publish libraries and tools across multiple package registries. Here is a curated selection showing the most popular and highest-downloaded packages in each runtime. Click the expansion accordion under any ecosystem to view the complete catalog of released packages:
 
 <p align="center">
   <img loading="lazy" src="https://img.shields.io/badge/Total_Packages-157-0F766E?style=for-the-badge" alt="Total Packages" />
@@ -82,11 +58,13 @@ I actively publish libraries and tools across multiple package registries. Here 
   <img loading="lazy" src="https://img.shields.io/badge/PyPI-6-3776ab?style=for-the-badge&logo=python" alt="Total PyPI Packages" />
   <img loading="lazy" src="https://img.shields.io/badge/Packagist-22-8892BF?style=for-the-badge&logo=php" alt="Total PHP Packages" />
 </p>
+
+<p align="left">
+  <strong>🦀 Rust (crates.io) - <a href="https://crates.io/users/AI-Autistic-Intelligence?sort=downloads">AI-Autistic-Intelligence</a>:</strong><br/>
+  <a href="https://crates.io/crates/cargo-ferrox"><img loading="lazy" src="https://img.shields.io/crates/d/cargo-ferrox?label=cargo-ferrox&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="cargo-ferrox" /></a> <a href="https://crates.io/crates/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a> <a href="https://crates.io/crates/ferrox-errors"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-errors?label=ferrox-errors&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-errors" /></a> <a href="https://crates.io/crates/ferrox-security"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-security?label=ferrox-security&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-security" /></a> <a href="https://crates.io/crates/ferrox-app"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-app?label=ferrox-app&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-app" /></a>
+</p>
 <details>
-<summary><b>🔍 Click to expand the full directory of all 157 published packages!</b></summary>
-<br/>
-<details>
-<summary>🦀 <b>Rust Crates (crates.io) — 63 Packages</b></summary>
+<summary>🔍 <b>Expand all 63 Rust Crates (crates.io)</b></summary>
 <br/>
 <h4>⚙️ Core Framework, CQRS & Microservices</h4>
 <p align="center">
@@ -105,9 +83,15 @@ I actively publish libraries and tools across multiple package registries. Here 
 <a href="https://crates.io/crates/bambu-3mf-cli"><img loading="lazy" src="https://img.shields.io/crates/d/bambu-3mf-cli?label=bambu-3mf-cli&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="bambu-3mf-cli" /></a> <a href="https://crates.io/crates/cargo-ferrox"><img loading="lazy" src="https://img.shields.io/crates/d/cargo-ferrox?label=cargo-ferrox&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="cargo-ferrox" /></a> <a href="https://crates.io/crates/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/crates/d/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a> <a href="https://crates.io/crates/rust-yalc"><img loading="lazy" src="https://img.shields.io/crates/d/rust-yalc?label=rust-yalc&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="rust-yalc" /></a> <a href="https://crates.io/crates/stl-grinder"><img loading="lazy" src="https://img.shields.io/crates/d/stl-grinder?label=stl-grinder&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="stl-grinder" /></a> <a href="https://crates.io/crates/whatsapp-to-pdf"><img loading="lazy" src="https://img.shields.io/crates/d/whatsapp-to-pdf?label=whatsapp-to-pdf&style=flat-square&color=fc8d62&logo=rust&cacheSeconds=86400" alt="whatsapp-to-pdf" /></a>
 </p>
 </details>
+
 <br/>
+
+<p align="left">
+  <strong>📦 Node.js & TypeScript (npm) - Top Downloaded & Active Modules (<a href="https://www.npmjs.com/org/nest-yalc-2">@nest-yalc-2</a>, <a href="https://www.npmjs.com/org/node-yalc">@node-yalc</a> & <a href="https://www.npmjs.com/org/ferrox-node">@ferrox-node</a>):</strong><br/>
+  <a href="https://www.npmjs.com/package/@nest-yalc-2/data-loader"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Fdata-loader?label=%40nest-yalc-2%2Fdata-loader&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/data-loader" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/graphql"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Fgraphql?label=%40nest-yalc-2%2Fgraphql&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/graphql" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/field-middleware"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Ffield-middleware?label=%40nest-yalc-2%2Ffield-middleware&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/field-middleware" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/event-manager"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Fevent-manager?label=%40nest-yalc-2%2Fevent-manager&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/event-manager" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/database"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Fdatabase?label=%40nest-yalc-2%2Fdatabase&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/database" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/errors"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Ferrors?label=%40nest-yalc-2%2Ferrors&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/errors" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/utils"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Futils?label=%40nest-yalc-2%2Futils&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/utils" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/crud-gen"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Fcrud-gen?label=%40nest-yalc-2%2Fcrud-gen&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/crud-gen" /></a> <a href="https://www.npmjs.com/package/@nest-yalc-2/logger"><img loading="lazy" src="https://img.shields.io/npm/dt/%40nest-yalc-2%2Flogger?label=%40nest-yalc-2%2Flogger&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@nest-yalc-2/logger" /></a> <a href="https://www.npmjs.com/package/@node-yalc/logger"><img loading="lazy" src="https://img.shields.io/npm/dt/%40node-yalc%2Flogger?label=%40node-yalc%2Flogger&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@node-yalc/logger" /></a> <a href="https://www.npmjs.com/package/@ferrox-node/core"><img loading="lazy" src="https://img.shields.io/npm/dt/%40ferrox-node%2Fcore?label=%40ferrox-node%2Fcore&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="@ferrox-node/core" /></a> <a href="https://www.npmjs.com/package/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/npm/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a>
+</p>
 <details>
-<summary>📦 <b>Node.js & TypeScript (npm) — 66 Packages</b></summary>
+<summary>🔍 <b>Expand all 66 Node.js & TypeScript Packages (npm)</b></summary>
 <br/>
 <h4>🏢 @nest-yalc-2 Enterprise Suite</h4>
 <p align="center">
@@ -126,24 +110,34 @@ I actively publish libraries and tools across multiple package registries. Here 
 <a href="https://www.npmjs.com/package/ferrox-agent-toolkit"><img loading="lazy" src="https://img.shields.io/npm/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=cb3837&logo=npm&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a>
 </p>
 </details>
+
 <br/>
+
+<p align="left">
+  <strong>🐍 Python (PyPI) - <a href="https://pypi.org/user/AutisticIntelligence/">AutisticIntelligence</a>:</strong><br/>
+  <a href="https://pypi.org/project/ferrox-agent-toolkit/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a> <a href="https://pypi.org/project/ferrox-py/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py?label=ferrox-py&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py" /></a> <a href="https://pypi.org/project/ferrox-py-utils/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-utils?label=ferrox-py-utils&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-utils" /></a> <a href="https://pypi.org/project/ferrox-py-auth/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-auth?label=ferrox-py-auth&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-auth" /></a>
+</p>
 <details>
-<summary>🐍 <b>Python Packages (PyPI) — 6 Packages</b></summary>
+<summary>🔍 <b>Expand all 6 Python Packages (PyPI)</b></summary>
 <br/>
 <p align="center">
 <a href="https://pypi.org/project/ferrox-agent-toolkit/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-agent-toolkit?label=ferrox-agent-toolkit&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-agent-toolkit" /></a> <a href="https://pypi.org/project/ferrox-py/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py?label=ferrox-py&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py" /></a> <a href="https://pypi.org/project/ferrox-py-aspyre/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-aspyre?label=ferrox-py-aspyre&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-aspyre" /></a> <a href="https://pypi.org/project/ferrox-py-auth/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-auth?label=ferrox-py-auth&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-auth" /></a> <a href="https://pypi.org/project/ferrox-py-commerce/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-commerce?label=ferrox-py-commerce&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-commerce" /></a> <a href="https://pypi.org/project/ferrox-py-utils/"><img loading="lazy" src="https://img.shields.io/pepy/dt/ferrox-py-utils?label=ferrox-py-utils&style=flat-square&color=3776ab&logo=python&cacheSeconds=86400" alt="ferrox-py-utils" /></a>
 </p>
 </details>
+
 <br/>
+
+<p align="left">
+  <strong>🐘 PHP (Packagist) - <a href="https://packagist.org/packages/ferrox/ferrox-php">ferrox/ferrox-php</a>:</strong><br/>
+  <a href="https://packagist.org/packages/ferrox/agent-toolkit"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/agent-toolkit?label=agent-toolkit&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/agent-toolkit" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-core"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-core?label=ferrox-php-core&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-core" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-security"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-security?label=ferrox-php-security&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-security" /></a>
+</p>
 <details>
-<summary>🐘 <b>PHP Packages (Packagist) — 22 Packages</b></summary>
+<summary>🔍 <b>Expand all 22 PHP Packages (Packagist)</b></summary>
 <br/>
 <p align="center">
 <a href="https://packagist.org/packages/ferrox/agent-toolkit"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/agent-toolkit?label=agent-toolkit&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/agent-toolkit" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php?label=ferrox-php&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-auth"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-auth?label=ferrox-php-auth&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-auth" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-broadcasting"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-broadcasting?label=ferrox-php-broadcasting&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-broadcasting" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-cli"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-cli?label=ferrox-php-cli&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-cli" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-config"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-config?label=ferrox-php-config&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-config" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-core"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-core?label=ferrox-php-core&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-core" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-cqrs"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-cqrs?label=ferrox-php-cqrs&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-cqrs" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-crud-gen"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-crud-gen?label=ferrox-php-crud-gen&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-crud-gen" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-data"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-data?label=ferrox-php-data&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-data" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-database-core"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-database-core?label=ferrox-php-database-core&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-database-core" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-events"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-events?label=ferrox-php-events&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-events" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-gateway"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-gateway?label=ferrox-php-gateway&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-gateway" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-mailer"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-mailer?label=ferrox-php-mailer&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-mailer" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-observability"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-observability?label=ferrox-php-observability&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-observability" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-queue"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-queue?label=ferrox-php-queue&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-queue" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-rate-limiter"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-rate-limiter?label=ferrox-php-rate-limiter&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-rate-limiter" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-rpc"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-rpc?label=ferrox-php-rpc&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-rpc" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-scheduler"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-scheduler?label=ferrox-php-scheduler&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-scheduler" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-security"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-security?label=ferrox-php-security&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-security" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-storage"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-storage?label=ferrox-php-storage&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-storage" /></a> <a href="https://packagist.org/packages/ferrox/ferrox-php-utils"><img loading="lazy" src="https://img.shields.io/packagist/dt/ferrox/ferrox-php-utils?label=ferrox-php-utils&style=flat-square&color=8892BF&logo=php&cacheSeconds=86400" alt="ferrox/ferrox-php-utils" /></a>
 </p>
 </details>
-</details>
-
 ---
 
 ### 🛠️ Languages

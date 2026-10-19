@@ -165,10 +165,10 @@
     "node-yalc"
   ],
   "counts": {
-    "packagist": 22,
+    "total": 157,
+    "npm": 66,
     "crates": 63,
     "pypi": 6,
-    "npm": 66,
-    "total": 157
+    "packagist": 22
   }
 }
